@@ -1,0 +1,26 @@
+
+
+CORRER PER A QUE FUNCIONI EL TECLAT NORMAL DEL PC (canvis)
+NOTA: EXECUTAR AMB ORDRE!!!!!!
+xmodmap -e "keycode 51 = Return"
+xmodmap -e "keycode 36 = ccedilla"
+
+
+
+CORRER PER A QUE FUNCIONI EL TECLAT EXTERN (reestablir a defaults)
+
+xmodmap -e "keycode 36 = Return"
+xmodmap -e "keycode 51 = ccedilla"
+
+
+
+
+_______________________________________________-https://askubuntu.com/questions/24916/how-do-i-remap-certain-keys-or-devices/24930#24930
+PER DEFECTE TENS 
+(CODI TECLA -- ACCIO ASSOCIADA)
+
+36   Return
+51   Ccdilla
+
+(CONSULTA LA CORRESPONDENCIA FENT LA COMANDA xev)
+

@@ -1,0 +1,13 @@
+P1563   Temperatures    defineixo strings com constants, a més a més de ja fer-ho amb els enters?
+P926123 rounding        els parentesis, nomes destintats per a legibilitat, calen en aquest cas?
+P27341  cubs            quina diferencia hi ha entre fer  i = i + 1    i fer    i += 1? Dóna diferent.
+
+
+P50327  revertir        es podria fer transformant el nombre n a string d'alguna manera per simplificar-ho tot més?
+P97969  conta_a         No sé què passa amb els espais... No conta les a que son a les paraules que no son la primera.      NO L'HE SABUT FER ENCARA
+P79784  movcoord        No sé com definir el final de la tirallonga (es una sequencia? Com recoenixo l'endl?
+
+P34279  add one second  EL formateig cout.fill('0') i cout.width(2) es correcte? NO exigeix importar res mes :). O caldria fer-ho d'alguna altra manera
+
+
+PER A LEXAMEN REPASSAR BE EL PROBLEMA REVERSED NUMBER P50327 PERQUE M'HA COSTAT MOLT FER-LO.
